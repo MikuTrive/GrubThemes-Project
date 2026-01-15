@@ -1,6 +1,4 @@
-# Copyright (C) 2024 Andi Trisna Mukti - 13atm01
-# Copyright (C) 2024 Japar Sidik - Jersk41
-# GRUB2 gfxmenu Linux theme
+
 
 # Global Property
 title-text: ""
