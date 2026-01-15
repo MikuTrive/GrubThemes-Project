@@ -1,5 +1,4 @@
-# Touhou Proyect Special Edition - J3xLe1988B3lx0x2E6
-# GRUB2 Linux Theme
+
 
 #Global Property
 title-text: ""
