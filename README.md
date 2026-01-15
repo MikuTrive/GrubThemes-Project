@@ -13,4 +13,6 @@
 # 主题预览
 - Cirno
 ![Preview](https://github.com/MikuTrive/GrubThemes-Project/blob/main/Image/Cirno.png)
+- Hakurei Reimu
+![Preview](https://github.com/MikuTrive/GrubThemes-Project/blob/main/Image/Hakurei%20Reimu.png)
 
